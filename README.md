@@ -1,5 +1,7 @@
 # Acne Classification System
-
+<div align="center">
+  <img src="https://github.com/rahulkumargit1/acne-classification-system/blob/main/python.jpg" alt="Rahul Kumar's GitHub Cover" style="width: 100%; max-width: 800px; height: auto; border-radius: 10px;">
+</div>
 A Python-based application for classifying acne using a YOLO model. The system allows users to upload images or capture them via a webcam, then uses a pre-trained YOLO model to classify acne types. The GUI is built with Tkinter, and the application integrates OpenCV for image processing and Ultralytics YOLO for object detection.
 
 ## Features
